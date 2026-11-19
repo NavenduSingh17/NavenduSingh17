@@ -1,4 +1,4 @@
-# Hi, I'm Navendu Singh 👋
+## Hi, I'm Navendu Singh 👋
 
 **Data Scientist & AI/ML Engineer** specializing in agentic systems, RAG pipelines, hybrid LLM workflows, and predictive ML applications.
 
