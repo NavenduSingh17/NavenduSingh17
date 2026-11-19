@@ -24,7 +24,5 @@
 
 ### 📫 Connect With Me
 
-* **GitHub:** [https://github.com/NavenduSingh17](https://github.com/NavenduSingh17)
 * **LinkedIn:** [Navendu Singh](https://www.linkedin.com/in/navendu-singh-data-science/)
 * **Email:** navendu.singh17@gmail.com
-
